@@ -1,0 +1,16 @@
+git init 
+    - initializes the working directory (starts tracking any changes)
+git status 
+    - shows the staging area
+git add
+    - moves the specified file to staging area
+git commit
+    - commits the changes
+git commit -m "Hello"
+    - Commits the changes with a `Hello` message
+git log
+    - Can see the previous commits made
+git diff [file_name]
+    - shows the difference before and after the file modification
+git checkout [file_name]
+    - rollsback to the last version(unmodified version of the file)
