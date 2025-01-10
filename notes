@@ -14,3 +14,9 @@ git diff [file_name]
     - shows the difference before and after the file modification
 git checkout [file_name]
     - rollsback to the last version(unmodified version of the file)
+git branch
+    - gives list of branches
+git branch [name]
+    - creates a new branch names as [name]
+git checkout [branch_name]
+    - switches to the specified branch
