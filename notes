@@ -14,6 +14,10 @@ git diff [file_name]
     - shows the difference before and after the file modification
 git checkout [file_name]
     - rollsback to the last version(unmodified version of the file)
+git remote add [remote_repository_name] [URL] #origin is the most common remote repository name, URL of the remote repo on github
+    - adds the remote repo
+git push -u [remote_repository_name] [branch_name]
+    - Uploads the local repository to the remote repository on github
 git branch
     - gives list of branches
 git branch [name]
