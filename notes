@@ -26,4 +26,7 @@ git checkout [branch_name]
     - switches to the specified branch
 git rm --cached -r [file_name]
     - removes specified files from staging area
-    
+Fork
+    - Copies the repo of the owner and creates a repo of our own
+Pull Request
+    - request to merge the changes made in the fork to the original repo
