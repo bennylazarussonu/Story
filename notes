@@ -26,3 +26,4 @@ git checkout [branch_name]
     - switches to the specified branch
 git rm --cached -r [file_name]
     - removes specified files from staging area
+    
